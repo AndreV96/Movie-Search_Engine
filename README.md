@@ -1,4 +1,4 @@
-# Movie-Search_Engine
+# Moviez
 
 1st Group Project
 
