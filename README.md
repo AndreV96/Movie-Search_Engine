@@ -68,4 +68,4 @@ Individual Movie Mockup:
 
 This site is responsive to different screen sizes, you can open your DevTools and check the differences in it.
 
-Respository: https://github.com/Enrique-Rojas-Villegas/Movie-Search_Engine.git
+Respository: https://github.com/AndreV96/Moviez
