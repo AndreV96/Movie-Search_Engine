@@ -9,7 +9,7 @@ release date, the movie´s plot, and external articles related to that specific 
 
 To access the movie information, users must select the image and will be redirected to another HTML in which specific data about the film is presented.
 
-Deployed App: https://enrique-rojas-villegas.github.io/Movie-Search_Engine/
+Deployed App: https://andrev96.github.io/Moviez/
 
 USER STORY:
 
