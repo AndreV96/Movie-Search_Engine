@@ -33,7 +33,7 @@ BREAKDOWN OF GENERAL TASKS:
 
 This was the first idea for the Search Engine, but since has been modified to add different characteristics.
 
-![This Img shows the initial idea for the project](./assets/images/Sketch-of-the-design.PNG)
+![This Img shows the initial idea for the project](./assets/images/Sketch-of-the-design.png)
 
 2. Accurate Sketch of the Designed once modified to final characteristics
 
